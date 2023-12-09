@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sayel Sayed
 
-#### I am a junior Web Developer
+#### I am a Web Developer
 
 ![I am a junior Web Developer](https://i.ibb.co/Fm7MNmq/sayel-mern-banner.png)
 
@@ -10,14 +10,25 @@ Skills: HTML || CSS || JS || React || Node.Js|| Express.js || MongoDB
 
 # My Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m Web Developer
+- 👯 I’ love to learn new technology and skills
+- 🤔 My dream is to be a qualitative web devloper
+- 🌱 I’m currently learning Next.js
+- 💬 Talk to me about React, Node, JavaScript Opportunities etc
+- 📫 Reach me at mdsayel111@gmail.com
+
+<br/>
+
+# My Responsibility
+
+- Design visually appealing and functional websites.
+- Code using HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+- Ensure responsiveness and a seamless user experience.
+- Collaborate with designers for cohesive design and user interface.
+- Integrate databases for efficient data management.
+- Troubleshoot issues and optimize website performance.
+- Stay updated on emerging technologies.
+- Deliver innovative web solutions through a comprehensive skill set.
 
 <br/>
 
@@ -45,3 +56,62 @@ Skills: HTML || CSS || JS || React || Node.Js|| Express.js || MongoDB
 <img align="center" src="https://i.ibb.co/09zBNS1/icons8-google-firebase-console-48.png"/>
 <img align="center" src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png"/>
 </div>
+
+<br/>
+<br/>
+
+# Projects
+
+## TrackFit project
+
+Live Link : https://trackfit.surge.sh/
+
+### Features
+
+- Role base authorization.
+
+- Infinite scroll in gallery page.
+
+- Alert will be show for all of CRUD operations.
+
+- Trainer can send mail to user.
+
+- Photo file can be uploaded.
+
+## Online Marketplace Project
+
+Live Link : https://online-marketplace-project.surge.sh/
+
+## Features
+
+- email and password based authentication. And jwt token base athorization.
+
+- Posted Job , My Bids and Bids Request route is privete. User must be athorize to go this rout. If user is not athorize can't go this route.
+
+- User can't bid on his post.
+
+- If job details page if user give input invalid for (date and price) input feilds user can't bid the project.
+
+- User can show her bids request and her bids in ascending and descending order.
+
+- User can filter her bids request and her bids by category.
+
+## Brand Shop project
+
+ Live Link : https://brand-shop.surge.sh/
+
+## Features
+
+- email and password based authentication. And signin or signup with google.
+
+- My Card , Update , Car Detailes and Add Product is private. If user is not login user can't go this route.
+
+- If account creat successful a succeess alert will be show.
+
+- In the Car detaile page if user click Add To Cart button a card will be added on booked page.
+
+- If the password
+  - is less than 6 characters
+  - don't have a capital letter
+  - don't have a special character
+    an error massage show in the website.
