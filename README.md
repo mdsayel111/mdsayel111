@@ -49,14 +49,15 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
 
 <h1>Languages and Tools</h1>
 <div>
-<img align="center" src="https://i.ibb.co/X422mbL/icons8-html5-48.png"/>
-<img align="center" src="https://i.ibb.co/QJYnFtG/icons8-css-48.png"/>
+
+<img align="center" src="https://i.ibb.co.com/KpsPzXgS/download-1.png"/>
+<img align="center" src="https://i.ibb.co.com/jZ3zp9D5/download-2.png"/>
+<img align="center" src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png"/>
 <img align="center" src="https://i.ibb.co/GHvGvt5/icons8-react-40.png"/>
 <img align="center" src="https://i.ibb.co/7XzmkBt/icons8-node-js-48.png"/>
 <img align="center" src="https://i.ibb.co/Jk42Ns0/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png"/>
 <img align="center" src="https://i.ibb.co/mt297xB/icons8-express-js-50.png"/>
 <img align="center" src="https://i.ibb.co/09zBNS1/icons8-google-firebase-console-48.png"/>
-<img align="center" src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png"/>
 </div>
 
 <br/>
