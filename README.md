@@ -43,7 +43,8 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
 
 <h1 >Contact With Me</h1>
 
-<a href="https://www.facebook.com/profile.php?id=100068803511119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a><a href="https://www.linkedin.com/in/sayel-sayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100068803511119" target="blank" style="display:inline-block; margin:6px;" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayel-sayed/" target="blank" style="display:inline-block; margin:6px;" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>
 
 <br/>
 
