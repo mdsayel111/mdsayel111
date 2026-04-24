@@ -48,22 +48,22 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
 <br/>
 
 <h1>Languages and Tools</h1>
-<p align="left">
-  <img src="https://i.ibb.co.com/KpsPzXgS/download-1.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/jZ3zp9D5/download-2.png" width="50" height="50"/>
-  <img src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png" width="50" height="50"/>
-  <img src="https://i.ibb.co/GHvGvt5/icons8-react-40.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/0VJ5qB0J/next-js-logo-icon-145038-removebg-preview-1.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/dzs5m2n/download.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/nq8fqjR3/download-3.png" width="50" height="50"/>
-  <img src="https://i.ibb.co/7XzmkBt/icons8-node-js-48.png" width="50" height="50"/>
-  <img src="https://i.ibb.co/Jk42Ns0/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png" width="50" height="50"/>
-  <img src="https://i.ibb.co/mt297xB/icons8-express-js-50.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/7JQYSVjP/download-4.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/ds90kvGS/download-5.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/v09GkYF/download-6.png" width="50" height="50"/>
-  <img src="https://i.ibb.co.com/JWNDXqcH/download-7.png" width="50" height="50"/>
-  <img src="https://i.ibb.co/09zBNS1/icons8-google-firebase-console-48.png" width="50" height="50"/>
+<p>
+  <img src="https://i.ibb.co.com/KpsPzXgS/download-1.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/jZ3zp9D5/download-2.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co/GHvGvt5/icons8-react-40.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/0VJ5qB0J/next-js-logo-icon-145038-removebg-preview-1.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/dzs5m2n/download.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/nq8fqjR3/download-3.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co/7XzmkBt/icons8-node-js-48.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co/Jk42Ns0/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co/mt297xB/icons8-express-js-50.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/7JQYSVjP/download-4.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/ds90kvGS/download-5.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/v09GkYF/download-6.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co.com/JWNDXqcH/download-7.png" width="50" style="display:inline-block; margin:6px;" />
+  <img src="https://i.ibb.co/09zBNS1/icons8-google-firebase-console-48.png" width="50" style="display:inline-block; margin:6px;" />
 </p>
 
 <br/>
