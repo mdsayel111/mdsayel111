@@ -54,9 +54,16 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
 <img align="center" src="https://i.ibb.co.com/jZ3zp9D5/download-2.png"/>
 <img align="center" src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png"/>
 <img align="center" src="https://i.ibb.co/GHvGvt5/icons8-react-40.png"/>
+<img align="center" src="https://i.ibb.co.com/W4CP0Jdk/next-js-logo-icon-145038-removebg-preview.png"/>
+<img align="center" src="https://i.ibb.co.com/dzs5m2n/download.png"/>
+<img align="center" src="https://i.ibb.co.com/nq8fqjR3/download-3.png"/>
 <img align="center" src="https://i.ibb.co/7XzmkBt/icons8-node-js-48.png"/>
 <img align="center" src="https://i.ibb.co/Jk42Ns0/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png"/>
 <img align="center" src="https://i.ibb.co/mt297xB/icons8-express-js-50.png"/>
+<img align="center" src="https://i.ibb.co.com/7JQYSVjP/download-4.png"/>
+<img align="center" src="https://i.ibb.co.com/ds90kvGS/download-5.png"/>
+<img align="center" src="https://i.ibb.co.com/v09GkYF/download-6.png"/>
+<img align="center" src="https://i.ibb.co.com/JWNDXqcH/download-7.png"/>
 <img align="center" src="https://i.ibb.co/09zBNS1/icons8-google-firebase-console-48.png"/>
 </div>
 
