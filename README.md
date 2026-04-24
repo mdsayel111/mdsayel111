@@ -48,7 +48,7 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
 <br/>
 
 <h1>Languages and Tools</h1>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+<p align="left">
   <img src="https://i.ibb.co.com/KpsPzXgS/download-1.png" width="50" height="50"/>
   <img src="https://i.ibb.co.com/jZ3zp9D5/download-2.png" width="50" height="50"/>
   <img src="https://i.ibb.co/mF0rN7B/icons8-tailwind-css-48.png" width="50" height="50"/>
@@ -64,7 +64,7 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
   <img src="https://i.ibb.co.com/v09GkYF/download-6.png" width="50" height="50"/>
   <img src="https://i.ibb.co.com/JWNDXqcH/download-7.png" width="50" height="50"/>
   <img src="https://i.ibb.co/09zBNS1/icons8-google-firebase-console-48.png" width="50" height="50"/>
-</div>
+</p>
 
 <br/>
 <br/>
