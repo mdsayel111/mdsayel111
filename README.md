@@ -2,9 +2,9 @@
 
 #### I am a Web Developer
 
-![I am a junior Web Developer](https://i.ibb.co/Fm7MNmq/sayel-mern-banner.png)
+![I am a junior Web Developer](https://i.ibb.co.com/R47VrxbV/Purple-and-Blue-Neon-Gamer-Youtube-Banner.png)
 
-Skills: HTML || CSS || JS || React || Node.Js|| Express.js || MongoDB
+Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || Node.Js || Express.js || MongoDB || Laravel || My SQL
 
 <br/>
 
@@ -19,16 +19,18 @@ Skills: HTML || CSS || JS || React || Node.Js|| Express.js || MongoDB
 
 <br/>
 
-# My Responsibility
+## 🚀 My Responsibilities
 
-- Design visually appealing and functional websites.
-- Code using HTML, CSS, JavaScript, React, Node.js, and MongoDB.
-- Ensure responsiveness and a seamless user experience.
-- Collaborate with designers for cohesive design and user interface.
-- Integrate databases for efficient data management.
-- Troubleshoot issues and optimize website performance.
-- Stay updated on emerging technologies.
-- Deliver innovative web solutions through a comprehensive skill set.
+- Build scalable and high-performance web and mobile applications using **JavaScript, TypeScript, React.js, Next.js, and React Native**  
+- Develop modern, responsive user interfaces with **Tailwind CSS** for seamless cross-device experience  
+- Manage application state efficiently using **Redux**  
+- Design and develop RESTful APIs with **Node.js and Express.js**  
+- Work with databases like **MongoDB** and **MySQL** for secure and optimized data management  
+- Utilize **Laravel** when working in PHP-based backend systems  
+- Collaborate with designers and teams to ensure clean and user-friendly UI/UX  
+- Optimize performance, debug issues, and maintain scalable codebases  
+- Follow best practices and stay updated with modern web technologies  
+- Deliver complete full-stack solutions from frontend to backend  
 
 <br/>
 
