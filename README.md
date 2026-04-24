@@ -43,8 +43,15 @@ Skills: JS || TS || Tailwind || React.js || Next.js || React Native || redux || 
 
 <h1 >Contact With Me</h1>
 
-<a href="https://www.facebook.com/profile.php?id=100068803511119" target="blank" style="display:inline-block; margin:6px;" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sayel-sayed/" target="blank" style="display:inline-block; margin:6px;" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100068803511119" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" style="margin-right:10px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sayel-sayed/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin-right:10px;" />
+  </a>
+</p>
 
 <br/>
 
